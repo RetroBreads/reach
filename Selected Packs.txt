@@ -1,7 +1,7 @@
-Reach by RetroBreads v 0.5.2
+Reach by RetroBreads v 1.0.1
 Version: 1.16.4
 Packs:
-	BetterLeatherArmor
+	BetterLeatherArmour
 	BetterNetherBricks
 	BetterWool
 	UniformNuggets
