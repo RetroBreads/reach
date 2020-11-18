@@ -1,4 +1,4 @@
-Reach by RetroBreads
+Reach by RetroBreads v 0.5.2
 Version: 1.16.4
 Packs:
 	BetterLeatherArmor
